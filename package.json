@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-nodeenv",
+  "version": "1.0.0",
+  "description": "修改vue-cli4设置NODE_ENV的规则",
+  "main": "index.js",
+  "author": "bigmeow (https://github.com/bigmeow)",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli-shared-utils": "^4.4.6"
+  }
+}
